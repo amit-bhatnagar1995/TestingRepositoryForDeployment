@@ -1,0 +1,7 @@
+D:\GIT-2\JobToSendMail\JobToSendMail\obj\Debug\JobToSendMail.csprojResolveAssemblyReference.cache
+D:\GIT-2\JobToSendMail\JobToSendMail\obj\Debug\JobToSendMail.csproj.CoreCompileInputs.cache
+D:\GIT-2\JobToSendMail\JobToSendMail\bin\Debug\JobToSendMail.exe.config
+D:\GIT-2\JobToSendMail\JobToSendMail\bin\Debug\JobToSendMail.exe
+D:\GIT-2\JobToSendMail\JobToSendMail\bin\Debug\JobToSendMail.pdb
+D:\GIT-2\JobToSendMail\JobToSendMail\obj\Debug\JobToSendMail.exe
+D:\GIT-2\JobToSendMail\JobToSendMail\obj\Debug\JobToSendMail.pdb
